@@ -1,4 +1,4 @@
-package romannumerals
+package romannumeral
 
 import (
 	"errors"
